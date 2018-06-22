@@ -1,1 +1,6 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="120" />
+  <codeStyleSettings language="Dart">
+    <option name="RIGHT_MARGIN" value="120" />
+  </codeStyleSettings>
+</code_scheme>
