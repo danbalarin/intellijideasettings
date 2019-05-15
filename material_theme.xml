@@ -1,8 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.8.2" />
-    <option name="userId" value="-1aaa9daf:1641d90a461:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="userId" value="-1aaa9daf:1641d90a461:-8000" />
+    <option name="version" value="3.9.4" />
   </component>
 </application>
